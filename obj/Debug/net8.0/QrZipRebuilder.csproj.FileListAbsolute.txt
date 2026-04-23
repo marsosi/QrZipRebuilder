@@ -1,0 +1,5 @@
+c:\Projetos\QRDecodicando\QrZipRebuilder\obj\Debug\net8.0\QrZipRebuilder.csproj.AssemblyReference.cache
+c:\Projetos\QRDecodicando\QrZipRebuilder\obj\Debug\net8.0\QrZipRebuilder.GeneratedMSBuildEditorConfig.editorconfig
+c:\Projetos\QRDecodicando\QrZipRebuilder\obj\Debug\net8.0\QrZipRebuilder.AssemblyInfoInputs.cache
+c:\Projetos\QRDecodicando\QrZipRebuilder\obj\Debug\net8.0\QrZipRebuilder.AssemblyInfo.cs
+c:\Projetos\QRDecodicando\QrZipRebuilder\obj\Debug\net8.0\QrZipRebuilder.csproj.CoreCompileInputs.cache
